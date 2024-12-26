@@ -5,6 +5,7 @@ Every time you want to run the gui, first build it in vscode by doing cntr-shift
 Then run it how you normally would
 After you run it, check the tasks.json file, and press cntr-z if it changed to something else, which likely happened due to the c++ extension in vscode
 
-\n
+-----------------------
 
-dsf
+For the arduino ide code, the test_code is what we ran in harlem because the wheels were misaligned.
+The Robot_Tour_Code is the official code file that you should try to build off of, especially when trying to do IMU Code because that has some. Look at both files.
